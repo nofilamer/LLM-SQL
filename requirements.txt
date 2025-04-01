@@ -3,3 +3,6 @@ ipykernel
 python-dotenv
 openai
 pydantic
+fastapi
+uvicorn
+jinja2
